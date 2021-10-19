@@ -1,0 +1,2 @@
+# :squid: Vanila Chrome App
+
